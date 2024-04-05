@@ -4,7 +4,7 @@
 
 For a given mobile application, implement its adaptability and correct, dynamic operation in portrait and landscape modes. Pixel perfect implementation accuracy is not required from you, but be attentive to details, try to implement the structure and operation of the application, as shown below:
 
-<img src="./assets/Adaptive_sprint_5.gif" width=230>
+<img src="./assets/Adaptive_sprint_5.gif">
 
 
 ### Basic requirements for running the application in landscape mode
